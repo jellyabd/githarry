@@ -1,1 +1,4 @@
-this is new branch 
+this is new branch
+reating a new branch is quick & simple.
+
+ 
